@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Jollof Rice Spice Mix",
+    "description": "Authentic blend of spices for perfect jollof rice, 200g pack.",
+    "price": 1500.00,
+    "imageUrl": "https://images.unsplash.com/photo-1596797038530-2c107229654b",
+    "category": "Groceries",
+    "stock": 50
+  },
+  {
+    "name": "Palm Oil (1L)",
+    "description": "Pure, unrefined palm oil, bottled fresh.",
+    "price": 2500.00,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5",
+    "category": "Groceries",
+    "stock": 30
+  },
+  {
+    "name": "Ankara Fabric (6 yards)",
+    "description": "Vibrant Ankara print fabric, 6-yard bundle.",
+    "price": 8000.00,
+    "imageUrl": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e",
+    "category": "Fashion",
+    "stock": 15
+  },
+  {
+    "name": "Shea Butter (500g)",
+    "description": "Raw, unrefined shea butter for skin and hair.",
+    "price": 3000.00,
+    "imageUrl": "https://images.unsplash.com/photo-1571875257727-256c39da42af",
+    "category": "Beauty",
+    "stock": 40
+  },
+  {
+    "name": "Beaded Necklace Set",
+    "description": "Handmade beaded necklace and earring set.",
+    "price": 4500.00,
+    "imageUrl": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338",
+    "category": "Accessories",
+    "stock": 20
+  }
+]
